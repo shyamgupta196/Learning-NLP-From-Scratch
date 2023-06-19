@@ -18,7 +18,7 @@ n-grams - can have n related words in a group. 'blah blah blah blah blah '
 
 word2vec - will convert a word to numerical format, to represent in vector space.
 
-average word2vec - Taking Word2Vec numbers for a bunch of words and averaging them out. It's like if you had a bunch of friends with different nicknames, and you wanted to come up with an overall nickname for your whole group of friends. You might call them "The Crew" or something like that. (tapu-sena)[../tapu-sena.jpg]
+average word2vec - Taking Word2Vec numbers for a bunch of words and averaging them out. It's like if you had a bunch of friends with different nicknames, and you wanted to come up with an overall nickname for your whole group of friends. You might call them "The Crew" or something like that. [img](../temps/tapu-sena.jpg)
 
 GLOVE - """ open contributions (should be explainable to a child [short and crisp]) """
 
