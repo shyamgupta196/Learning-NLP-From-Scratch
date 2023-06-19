@@ -11,6 +11,9 @@
 4. Make a real world ChatBot with Python on real world data.
 
 19June 2023
-1. https://towardsdatascience.com/roadmap-to-natural-language-processing-nlp-38a81dcff3a6 - This article was great to get me started with [BASICS](Basics.md)
+1. https://towardsdatascience.com/roadmap-to-natural-language-processing-nlp-38a81dcff3a6 - This article was great to get me started with [BASICS](./basics/Basics.md)
 
-2. 
+2. good read-  https://varshasaini.in/complete-roadmap-to-learn-natural-language-processing-in-2022/#Prerequisite_to_Learn_NLP
+
+3. https://spacy.io/usage/spacy-101 - read only till Architecture, after that nothing makes sense for beginners.
+
