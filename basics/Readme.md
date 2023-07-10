@@ -22,4 +22,9 @@ average word2vec - Taking Word2Vec numbers for a bunch of words and averaging th
 
 GLOVE - """ open contributions (should be explainable to a child [short and crisp]) """
 
+Named entities - They represent a string for a real world concept like a "person","organisation","Place", etc.
+
 NOW, It is recommended to get your hands dirty, 
+
+## To get my hands dirty I will refer a book NLP with Pytorch by O'reilly publishers
+
